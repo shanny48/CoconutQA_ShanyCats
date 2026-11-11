@@ -1,1 +1,1 @@
-print("main branch version")
+print("resolved conflict")
